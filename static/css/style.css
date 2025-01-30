@@ -93,6 +93,14 @@ body {
     margin: 0; /* Remove as margens padrão */
 }
 
+.blue-underline {
+    width: 500px;
+    height: 10px;
+    background-color: var(--secondary);
+    margin: 20px auto;
+    border-radius: 4px;
+}
+
 .header h2.subtitle {
     font-size: 20pt;
     line-height: 1.23;
@@ -513,6 +521,14 @@ h2 {
         padding: 0.8rem 1.5rem;
         font-size: 1rem;
    }
+
+   .blue-underline {
+    width: 300px;
+    height: 10px;
+    background-color: var(--secondary);
+    margin: 20px auto;
+    border-radius: 4px;
+}
 
    .carousel-button {
     padding: 0.5rem;
