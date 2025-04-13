@@ -211,6 +211,19 @@ h2 {
     font-size: 1.3rem;
     margin: 1rem 0;
 }
+.discount s {
+    color: #25D366;
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin: 1rem 0;
+}
+.discount strong {
+    color: #25D366;
+    font-weight: bold;
+    font-size: 1.3rem;
+    margin: 1rem 0;
+}
+
 
 .call-to-action {
     text-align: center;
